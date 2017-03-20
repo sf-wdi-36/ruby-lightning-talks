@@ -1,8 +1,8 @@
 # HTTP Party
 
-The power of api requests made easy with HTTP Party!
+The power of api requests, made easy with HTTP Party!
 
-## Whats So Great About HTTP Party
+## What's So Great About HTTP Party?
 
 <li> Setting all the headers!
 <li> Making life easy with apis!
