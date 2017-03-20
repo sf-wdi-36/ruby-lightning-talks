@@ -8,9 +8,11 @@ You should aim to answer the following questions:
 - How do you use it in a rails app?
 
 ## Topics:
-Additional gems are listed [here](https://github.com/markets/awesome-ruby) and [here](http://code.tutsplus.com/articles/24-extremely-useful-ruby-gems-for-web-development--net-23863)
+Additional gems are listed [here](https://github.com/markets/awesome-ruby) and [here](http://code.tutsplus.com/articles/24-extremely-useful-ruby-gems-for-web-development--net-23863).
 
 > You are welcome to suggest your own!
+
+**Please sign up for your topic in the project submission Google doc, and don't repeat a topic someone has already chosen.**
 
 #### Active Record Plugins
 * **Active Record Nesting**: Awesome nested set | Ancestry | Acts as tree | Closure Tre | Better nested set
