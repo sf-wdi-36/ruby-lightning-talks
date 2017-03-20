@@ -7,6 +7,8 @@ You should aim to answer the following questions:
 - What problem does the gem solve?
 - How do you use it in a rails app?
 
+For inspiration on your gist, see [this example](gist.md).
+
 ## Topics:
 Additional gems are listed [here](https://github.com/markets/awesome-ruby) and [here](http://code.tutsplus.com/articles/24-extremely-useful-ruby-gems-for-web-development--net-23863).
 
