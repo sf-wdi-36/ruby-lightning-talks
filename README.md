@@ -5,7 +5,7 @@ Your goal is to create an exceedingly brief presentation of a ruby gem, js packa
 You should aim to answer the following questions:
 
 - What problem does the gem/package aim to solve?
-- How do you use it in a rails app?
+- How do you use it in a rails app/MEN/MEAN/MERN stack app?
 
 For inspiration on your gist, see [this example](gist.md).
 
