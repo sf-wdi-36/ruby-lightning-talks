@@ -1,16 +1,16 @@
-# Ruby on Rails Lightning Talks
+# Lightning Talks
 
-Your goal is to create an exceedingly brief presentation of a ruby gem (~5 min). We encourage you to try to do a live demo / have a working code example. Please also [create a brief github gist](https://help.github.com/articles/creating-gists/) (or "cheat sheet") for your fellow developers, outlining your findings, and linking to any helpful tutorials, resources, hints, and tips you discover in your research. This is a great project to use as a blog post and/or describe to potential employers.
+Your goal is to create an exceedingly brief presentation of a ruby gem, js package/library, or other web technology(~5 min). We encourage you to try to do a live demo / have a working code example. Please also [create a brief github gist](https://help.github.com/articles/creating-gists/) (or "cheat sheet") for your fellow developers, outlining your findings, and linking to any helpful tutorials, resources, hints, and tips you discover in your research. This is a great project to use as a blog post and/or describe to potential employers.
 
 You should aim to answer the following questions:
 
-- What problem does the gem solve?
+- What problem does the gem/package aim to solve?
 - How do you use it in a rails app?
 
 For inspiration on your gist, see [this example](gist.md).
 
 ## Topics:
-Additional gems are listed [here](https://github.com/markets/awesome-ruby) and [here](http://code.tutsplus.com/articles/24-extremely-useful-ruby-gems-for-web-development--net-23863).
+For Ruby enthusiasts, gems are listed [here](https://github.com/markets/awesome-ruby) and [here](http://code.tutsplus.com/articles/24-extremely-useful-ruby-gems-for-web-development--net-23863).
 
 > You are welcome to suggest your own!
 
